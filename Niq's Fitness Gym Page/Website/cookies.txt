@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.niqsfitgym.me	TRUE	/	FALSE	1999999999	__cf_bm	rvGY91nVkKatJwNXS2cz2dkr0rb4IdnCQrnm4KR9B5E-1724575737-1.0.1.1-7VGh5EFKNQ1rFVEWYFb0asPRCaqZ5.WMIPMtPN4eiU.m3a1f6n74AByJLHPs.VfyjvE7C5_O9QQsxQbkYCG.DQ
+.niqsfitgym.me	TRUE	/	FALSE	1999999999	__cfruid	6e55407a1e5e028805c76bba86dbe44b15d14969-1724575737
+niqsfitgym.me	TRUE	/	FALSE	1999999999	SameSite	None
+

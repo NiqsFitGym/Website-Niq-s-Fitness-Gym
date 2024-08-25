@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:46:49	100/100	---MCZ	200	added ('OK')	text/plain	etag:W/%228c6379daac57d4174764519058516598%22	http://niqsfitgym.me/robots.txt		(from )
+16:46:50	2556/2556	---MCZ	404	error ('Not%20Found')	text/html	date:Sun,%2025%20Aug%202024%2008:46:53%20GMT	http://niqsfitgym.me/	C:/Users/SHARKY/Documents/Niq's%20Fitness%20Gym%20Page/HubSpot%20Copying%20my%20Website/niqsfitgym.me/index.html	(from )
